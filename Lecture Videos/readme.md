@@ -5,4 +5,5 @@
 
 </p>
 
+Week 3 - VSC-Git Basic Operation - [link](https://www.youtube.com/watch?v=juEEJkgq6fI)
 
