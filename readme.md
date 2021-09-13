@@ -42,7 +42,7 @@
 
 Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
 
-Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://www.zhihu.com/people/Welson-WEN
+Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
 
 
 *Assistance on Your Project Project*
