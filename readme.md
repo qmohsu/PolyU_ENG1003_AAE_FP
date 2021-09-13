@@ -33,7 +33,7 @@
 
 <a href="Lecture%20Videos/"><strong>Lecture Videos</strong></a>
 
-<a href="Sample%20Codes/"><strong>Lecture Videos</strong></a>
+<a href="Sample%20Codes/"><strong>Sample Codes</strong></a>
 
 <!-- CONTACT -->
 ## Contact
