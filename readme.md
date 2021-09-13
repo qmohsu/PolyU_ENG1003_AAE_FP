@@ -47,7 +47,7 @@ Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
 Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
 
 
-*Assistance on Your Project Project*
+*Assistance on Your Project*
 
 *Group 1-3*
 
