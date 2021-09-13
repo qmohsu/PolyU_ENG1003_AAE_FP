@@ -4,7 +4,6 @@
   <h3 align="center">PolyU ENG1003 AAE Freshman Project</h3>
 
   <p align="center">
-    Information
     <br />
     <a href="LT HSU ENG1003 Teaching Plan 2021-22 S1.pdf"><strong>Teaching Plan »</strong></a>
     <br />
