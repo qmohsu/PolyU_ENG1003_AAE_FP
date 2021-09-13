@@ -18,36 +18,46 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#lecture-notes">Lecture Notes</a>
+      <a href="#lecture-materials">Lecture Materials</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
     </li>
   </ol>
 </details>
 
 
 
-<!-- Lecture Notes -->
-## Lecture Notes
+<!-- Lecture Materials -->
+## Lecture Materials
 <a href="Lecture%20Notes/"><strong>Lecture Notes</strong></a>
+
+<a href="Lecture%20Videos/"><strong>Lecture Videos</strong></a>
+
+<a href="Sample%20Codes/"><strong>Lecture Videos</strong></a>
 
 <!-- CONTACT -->
 ## Contact
-General Inquiry
+**General Inquiry**
 
-Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk
+Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
 
-Assistance on Your Project Project 
+Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://www.zhihu.com/people/Welson-WEN
 
-Group 1-3 
 
-Miss Hui Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk
+*Assistance on Your Project Project*
 
-Group 4-6
+*Group 1-3*
 
-Miss Yan Tung (Nikki) LEUNG - yan-tung.leung@connect.polyu.hk
+Miss Hui Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
 
-Group 7-10
+*Group 4-6*
 
-Mr Man Hin (Melvin) CHENG - manhin.cheng@connect.polyu.hk
+Miss Yan Tung (Nikki) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
+
+*Group 7-10*
+
+Mr Man Hin (Melvin) CHENG - manhin.cheng@connect.polyu.hk - https://github.com/Melvincheng0830
 
 
 
