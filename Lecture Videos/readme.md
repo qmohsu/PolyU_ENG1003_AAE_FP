@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h3 align="center">Lecture Videos</h3>
+  <h3 align="center">Lecture Video Demos (below are YouTube Links)</h3>
 </p>
 
 VS code and Git download - [link](https://www.youtube.com/watch?v=MZZw7VU9T4c)
