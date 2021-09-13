@@ -6,6 +6,7 @@ Introduction: [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (pronounce
 <p align="center">
   <h3 align="center">Sample code</h3>
 </p>
+
 ### Run Demo with Python   
 
 - Solution to run the Demo
@@ -16,4 +17,7 @@ Introduction: [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (pronounce
   <img width="712pix" src="animation.gif">
 </p>
 
-<center> Overview of the 3DLA GNSS-RTK. The inputs include the GNSS, LiDAR, and INS. </center>
+<center> Demonstration of the A Start Algorithm </center>
+
+## Acknowledgements
+We make reference to [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
