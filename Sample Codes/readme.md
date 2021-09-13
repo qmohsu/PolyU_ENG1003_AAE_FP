@@ -12,6 +12,8 @@ Introduction: [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (pronounce
 - Solution to run the Demo
   ```bash
   python a_star_original.py
+  # or you can run the following (the a_star_noted.py is the noted code with explaination)
+  python a_star_noted.py
   ```
 <p align="center">
   <img width="712pix" src="animation.gif">
