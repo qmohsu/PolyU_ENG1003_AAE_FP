@@ -62,7 +62,7 @@ Miss Yan Tung (Nikki) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.c
 Mr Man Hin (Melvin) CHENG - manhin.cheng@connect.polyu.hk - https://github.com/Melvincheng0830
 
 ## Acknowledgements
-We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for GNSS data decoding.
+We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
 
 
 
