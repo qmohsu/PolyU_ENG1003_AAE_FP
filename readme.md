@@ -6,7 +6,7 @@
   <p align="center">
     Information
     <br />
-    <a href="PolyU_ENG1003_AAE_FP/blob/main/LT%20HSU%20ENG1003%20Teaching%20Plan%202021-22%20S1.docx"><strong>Teaching Plan »</strong></a>
+    <a href="LT HSU ENG1003 Teaching Plan 2021-22 S1.docx"><strong>Teaching Plan »</strong></a>
     <br />
   </p>
 </p>
