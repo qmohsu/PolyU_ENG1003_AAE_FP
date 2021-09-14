@@ -26,7 +26,7 @@
       <a href="#contact">Contact</a>
     </li>
     <li>
-      <a href="#tasks">Tasks</a>
+      <a href="#student-tasks">Student Tasks</a>
     </li>
     <li>
       <a href="#acknowledgements">Acknowledgements</a>
@@ -44,8 +44,8 @@
 
 <a href="Sample%20Codes/"><strong>Sample Codes</strong></a>
 
-<!-- Tasks -->
-## Tasks
+<!-- Student Tasks -->
+## Student Tasks
 <a href="Lecture Notes/Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a>
 
 <a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
