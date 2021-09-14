@@ -19,7 +19,7 @@ Introduction: [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (pronounce
   <img width="712pix" src="animation.gif">
 </p>
 
-<center> Demonstration of the A Start Algorithm </center>
+<center> Demonstration of the A Star Algorithm </center>
 
 ## Acknowledgements
 We make reference to [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
