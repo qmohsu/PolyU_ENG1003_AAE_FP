@@ -25,6 +25,12 @@
     <li>
       <a href="#contact">Contact</a>
     </li>
+    <li>
+      <a href="#tasks">Tasks</a>
+    </li>
+    <li>
+      <a href="#acknowledgements">Acknowledgements</a>
+    </li>    
   </ol>
 </details>
 
@@ -37,6 +43,13 @@
 <a href="Lecture%20Videos/"><strong>Lecture Videos</strong></a>
 
 <a href="Sample%20Codes/"><strong>Sample Codes</strong></a>
+
+<!-- Tasks -->
+## Tasks
+<a href="Lecture Notes/Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a>
+
+<a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+
 
 <!-- CONTACT -->
 ## Contact
