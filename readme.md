@@ -68,7 +68,7 @@ Miss Hui Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queen
 
 *Group 4-6*
 
-Miss Yan Tung (Nikki) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
+Miss Yan Tung (Nikkie) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
 
 *Group 7-10*
 
