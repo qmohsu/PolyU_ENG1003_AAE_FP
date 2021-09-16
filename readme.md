@@ -46,6 +46,8 @@
 
 <!-- Student Tasks -->
 ## Student Tasks
+<a href="ENG1003 Week 3 Tutorial.pdf"><strong>Tutorial Tasks</strong></a>
+
 <a href="Lecture Notes/Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a>
 
 <a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
