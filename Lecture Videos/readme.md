@@ -3,6 +3,10 @@
   <h3 align="center">Lecture Video Demos (below are YouTube Links)</h3>
 </p>
 
+
+**The video playlist for learning the GitHub and VS code integration [link](https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-gKso)**
+
+
 VS code and Git download - [link](https://www.youtube.com/watch?v=MZZw7VU9T4c)
 
 Installation of Python and VS Code - [link](https://youtu.be/wJEZO8M2j4Q)
