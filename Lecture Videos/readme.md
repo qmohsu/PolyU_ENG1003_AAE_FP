@@ -6,11 +6,12 @@
 
 <p align="center">
 **The video playlist for learning the GitHub and VS code integration**
-  
-<p align="center">  
- **[link](https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-gKso)**
 
-  
+ <p align="center">
+https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-gKso
+
+
+   
 
   
 (Installtion - 1) - VS code and Git download - [link](https://youtu.be/MZZw7VU9T4c)
