@@ -22,5 +22,6 @@ Introduction: [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) (pronounce
 <p align="center">
   <center> Demonstration of the A Star Algorithm </center>
 </p>
-## Acknowledgements
+
+### Acknowledgements
 We make reference to [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
