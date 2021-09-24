@@ -44,9 +44,12 @@ https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-g
 
 (GitHub Web Operation - 5) - (Web version) Commit and merge during the merge of repositories - [link](https://youtu.be/34bSuMcdHP4)
 
-(GitHub Web Operation - 6) - (Web version) Commit but reject during the merge of repositories - [link](https://youtu.be/6zPyvGKE804)
+(GitHub Web Operation - 5) - (Web version) Commit but reject during the merge of repositories - [link](https://youtu.be/6zPyvGKE804)
 
 (GitHub Web Operation - 6) - Push and Merge code directly using VS code - [link](https://youtu.be/dSWB5QCUdpE)
 
 (GitHub Web Operation - 7) - Search and download the repository - [link](https://youtu.be/5rtr63yCO0c)
-  
+
+(Path Planning Algorithm - 1) - Introduction of A star algorithm based on the open-source Python code - [link](https://youtu.be/PRKLhcG2kB0)
+   
+(Path Planning Algorithm - 2) - A star algorithm flight planning with time consuming and fuel consuming areas - [link](https://youtu.be/acGz4aLrS9I)
