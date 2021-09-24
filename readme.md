@@ -52,7 +52,7 @@
 
 <a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
-<a href="Lecture Notes/Report template.pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>
+<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>
 
 
 <!-- CONTACT -->
