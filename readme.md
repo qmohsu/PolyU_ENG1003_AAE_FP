@@ -52,7 +52,7 @@
 
 <a href="Lecture Notes/(Key slide) Week 6 Design goals (Compulsory).pdf"><strong>Additional Tasks</strong></a>
 
-<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>
+<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
 
 
 <!-- CONTACT -->
