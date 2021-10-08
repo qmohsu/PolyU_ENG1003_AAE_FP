@@ -1,6 +1,6 @@
 """
 
-A* grid planning
+A* grid planning !?
 
 author: Atsushi Sakai(@Atsushi_twi)
         Nikos Kanargias (nkana@tee.gr)
