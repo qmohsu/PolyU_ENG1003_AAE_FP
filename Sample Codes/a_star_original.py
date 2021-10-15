@@ -218,7 +218,7 @@ class AStarPlanner:
     @staticmethod
     def get_motion_model():
         # dx, dy, cost
-        motion = [[1, 0, 1.5],
+        motion = [[1, 0, 1],
                   [0, 1, 1],
                   [-1, 0, 1],
                   [0, -1, 1],
