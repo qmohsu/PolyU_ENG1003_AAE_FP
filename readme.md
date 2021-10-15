@@ -54,6 +54,7 @@
 
 <a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
 
+<a href="Peer review_ENG1003.pdf"><strong>Peer Assessment Form</strong></a> - <strong>[MS Word File](https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Peer%20review_ENG1003.docx)</strong>
 
 <!-- CONTACT -->
 ## Contact
