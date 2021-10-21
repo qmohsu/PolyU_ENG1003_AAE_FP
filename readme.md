@@ -56,6 +56,8 @@
 
 <a href="Peer review_ENG1003.pdf"><strong>Peer Assessment Form</strong></a> - <strong>[MS Word File](https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Peer%20review_ENG1003.docx)</strong>
 
+(<a href="(Presentation) Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a> - <strong></strong>
+
 <!-- CONTACT -->
 ## Contact
 **General Inquiry**
