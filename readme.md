@@ -71,7 +71,7 @@ Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
 
 *Group 1-3*
 
-Miss Hui Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
+Miss Hiu Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
 
 *Group 4-6*
 
