@@ -1,6 +1,3 @@
-# Presentation Link
-*youtube link here
-
 <p align="center">
 
   <h3 align="center">PolyU ENG1003 AAE Freshman Project</h3>
