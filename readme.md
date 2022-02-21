@@ -4,7 +4,7 @@
 
   <p align="center">
     <br />
-    <a href="LT HSU ENG1003 Teaching Plan 2021-22 S1.pdf"><strong>Teaching Plan</strong></a>
+    <a href="LT HSU AAE2004 Teaching Plan 2022-23 S1(2)(1).pdf"><strong>Teaching Plan</strong></a>
     <br />
     <br />
     <a href="Freshman Project Assessment Criteria.pdf"><strong>Assessment Criteria</strong></a>
@@ -45,17 +45,17 @@
 
 <!-- Student Tasks -->
 ## Student Tasks
-<a href="ENG1003 Week 3 Tutorial.pdf"><strong>Tutorial Task</strong></a> - <a href="ENG1003 Week 3 Tutorial Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
+<a href="AAE2004 Week 1 Tutorial.pdf"><strong>Tutorial Task</strong></a> || <a href="AAE2004 Tutorial 1 Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
 
-<a href="Lecture Notes/(Key slide) Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a>  -  <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
+<a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
 
-<a href="Lecture Notes/(Key slide) Week 6 Design goals (Compulsory).pdf"><strong>Additional Tasks</strong></a>
+<a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
 <a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
 
-<a href="Peer review_ENG1003.pdf"><strong>Peer Assessment Form</strong></a> - <strong>[MS Word File](https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Peer%20review_ENG1003.docx)</strong>
+<a href="Peer review_AAE2004.docx"><strong>Peer Assessment Form</strong></a>
 
-<a href="https://github.com/qmohsu/PolyU_ENG1003_AAE_FP/blob/main/Lecture%20Notes/(Presentation)%20Presentation%20Requirements.pdf"><strong>Presentation Requirements</strong></a>
+<a href="Lecture Notes/Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a>
 
 <!-- CONTACT -->
 ## Contact
