@@ -58,6 +58,11 @@
 <a href="Lecture Notes/Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a>
 
 <!-- CONTACT -->
+## Deadlines:
+GitHub tutorial: *date*
+Project report (via Readme): *date*
+Video Presentation (via Youtube): *date*
+Project repository last update: *date*
 ## Contact
 **General Inquiry**
 
