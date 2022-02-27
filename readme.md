@@ -47,7 +47,7 @@
 ## Student Tasks
 <a href="AAE2004 Week 1 Tutorial.pdf"><strong>Tutorial Task</strong></a> || <a href="AAE2004 Tutorial 1 Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
 
-<a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
+<a href="Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
 
 <a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
