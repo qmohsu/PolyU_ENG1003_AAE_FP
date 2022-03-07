@@ -45,13 +45,22 @@
 
 <!-- Student Tasks -->
 ## Student Tasks
+
+### Tutorial Tasks
+
 <a href="AAE2004 Week 1 Tutorial.pdf"><strong>Tutorial Task</strong></a> || <a href="AAE2004 Tutorial 1 Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
 
-<a href="Lecture Notes/Week 6 Design goals (Compulsory).pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
+### Path Planning Tasks Tasks
 
-<a href="Lecture Notes/Week 6 Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+<a href="Lecture Notes/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
+
+<a href="Lecture Notes/Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+
+### README.md Report
 
 <a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
+
+### Other Materials
 
 <a href="Peer review_AAE2004.docx"><strong>Peer Assessment Form</strong></a>
 
