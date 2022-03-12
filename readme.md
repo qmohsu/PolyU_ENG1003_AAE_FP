@@ -52,7 +52,7 @@
 
 ### Path Planning Tasks Tasks
 
-<a href="Lecture Notes/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/PRKLhcG2kB0)</strong>
+<a href="Lecture Notes/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
 
 <a href="Lecture Notes/Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
