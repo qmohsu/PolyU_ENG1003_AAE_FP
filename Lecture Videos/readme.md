@@ -52,4 +52,4 @@ https://www.youtube.com/watch?v=MZZw7VU9T4c&list=PLw8Oypadak9OPJjn5uPBwKzHkqce-g
 
 (Path Planning Algorithm - 1) - Introduction of A star algorithm based on the open-source Python code - [link](https://youtu.be/PRKLhcG2kB0)
    
-(Path Planning Algorithm - 2) - A star algorithm flight planning with time consuming and fuel consuming areas - [link](https://youtu.be/acGz4aLrS9I)
+(Path Planning Algorithm - 2) - A star algorithm flight planning Compulsory Task 1 Tutorial & Cost intensive areas - [link](https://youtu.be/hmlWX5OEs5U)
