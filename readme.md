@@ -46,10 +46,6 @@
 <!-- Student Tasks -->
 ## Student Tasks
 
-### Tutorial Tasks
-
-<a href="AAE2004 Week 1 Tutorial.pdf"><strong>Tutorial Task</strong></a> || <a href="AAE2004 Tutorial 1 Walkthrough.pdf"><strong>Step-by-Step Instruction</strong></a>
-
 ### Path Planning Tasks Tasks
 
 <a href="Lecture Notes/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
