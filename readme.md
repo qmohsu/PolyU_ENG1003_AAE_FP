@@ -91,17 +91,13 @@ Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
 
 **Assistance on Your Project**
 
-*Group 1-3*
+*Group 1-5*
 
 Miss Hiu Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
 
-*Group 4-6*
+*Group 6-10*
 
 Miss Yan Tung (Nikkie) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
-
-*Group 7-10*
-
-Mr Man Hin (Melvin) CHENG - manhin.cheng@connect.polyu.hk - https://github.com/Melvincheng0830
 
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
