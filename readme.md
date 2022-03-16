@@ -58,7 +58,7 @@
 
 ### README.md Report
 
-<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Week 6 Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
+<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
 
 ### Other Materials
 
