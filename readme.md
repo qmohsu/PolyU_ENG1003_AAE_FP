@@ -65,32 +65,42 @@
 <!-- CONTACT -->
 ## Deadlines:
 
-### GitHub tutorial: 
-*date*
-
 ### Project report (via Readme): 
-*date*
+*23:50pm on 27 Nov (Sun).*
 
 ### Video Presentation (via Youtube): 
-*date*
+*23:50pm on 27 Nov (Sun).*
 
 ### Project repository last update: 
-*date*
+*23:50pm on 27 Nov (Sun).*
 
 ## Contact
+
 **General Inquiry**
 
 Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
+
+Dr Guohao Zhang -  gh.zhang@polyu.edu.hk - https://github.com/GH-Zhang
+
+Dr Weisong Wen -  welson.wen@polyu.edu.hk - https://github.com/weisongwen
 
 **Assistance on Your Project**
 
 *Group 1-3*
 
-Miss Hiu Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
+Miss Hiu Yi (Queenie) HO - queenie-hy.ho@connect.polyu.hk - https://github.com/queenie-ho
 
-*Group 6-10*
+*Group 4-6*
 
-Miss Yan Tung (Nikkie) LEUNG - yan-tung.leung@connect.polyu.hk - https://github.com/tungtungyan
+Miss Yan Tung (Nikkie) LEUNG - nikkie-yt.leung@connect.polyu.hk - https://github.com/tungtungyan
+
+*Group 7-9*
+
+Mr Hoi-Fung (Ivan) NG - hf-ivan.ng@connect.polyu.hk - https://github.com/ivannhf
+
+*Group 10-12*
+
+Mr Feng (Darren) HUANG - darren-f.huang@connect.polyu.hk - https://github.com/DarrenWong
 
 ## Acknowledgements
 We use [Best-README-Template](https://github.com/othneildrew/Best-README-Template) for readme organization and [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) for demo A star path planning.
