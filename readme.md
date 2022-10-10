@@ -84,7 +84,7 @@ Dr Li-Ta Hsu -  lt.hsu@polyu.edu.hk - https://github.com/qmohsu
 
 **Assistance on Your Project**
 
-*Group 1-5*
+*Group 1-3*
 
 Miss Hiu Yi (Queenie) HO - hiu-yi.ho@connect.polyu.hk - https://github.com/queenie-ho
 
