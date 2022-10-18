@@ -48,19 +48,19 @@
 
 ### Path Planning Tasks Tasks
 
-<a href="Lecture Notes/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
+<a href="Lecture Notes/Slides by Topics/Compulsory Tasks.pdf"><strong>Compulsory Tasks</strong></a> || <strong>[Tutorial link](https://youtu.be/hmlWX5OEs5U)</strong>
 
-<a href="Lecture Notes/Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
+<a href="Lecture Notes/Slides by Topics/Additional Tasks.pdf"><strong>Additional Tasks</strong></a>
 
 ### README.md Report
 
-<a href="Lecture Notes/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
+<a href="Lecture Notes/Slides by Topics/Report template .pdf"><strong>Final Report Template</strong></a>  -  <strong>[Tutorial link](https://www.youtube.com/watch?v=ECuqb5Tv9qI)</strong>  -  **<a href="Lecture Notes/Slides by Topics/Creating a README in GitHub.pdf"><strong>Readme.me Introduction</strong></a>**
 
 ### Other Materials
 
 <a href="Peer review_AAE2004.pdf"><strong>Peer Assessment Form</strong></a>
 
-<a href="Lecture Notes/Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a>
+<a href="Lecture Notes/Slides by Topics/Presentation Requirements.pdf"><strong>Presentation Requirements</strong></a>
 
 <!-- CONTACT -->
 ## Deadlines:
