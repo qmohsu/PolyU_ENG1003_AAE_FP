@@ -1,10 +1,10 @@
 <p align="center">
 
-  <h3 align="center">PolyU AAE2004 GitHub Project LOL</h3>
+  <h3 align="center">PolyU AAE2004 GitHub Project fsdfasdfafqaftageeag LOL</h3>
 
   <p align="center">
     <br />
-    <a href="LT HSU AAE2004 Teaching Plan 2022-2bhugvitufi76tfihiulhgbliuybliybiyu6rtdcir6d8u65rd864d75u43 S1.pdf"><strong>Teaching Plan</strong></a>
+    <a href="LT HSU AAE2004 Teaching Plan 2022-21 S1.pdf"><strong>Teaching Plan</strong></a>
     <br />
     <br />
     <a href="Project Assessment Criteria.pdf"><strong>Assessment Criteria</strong></a>
