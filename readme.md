@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h3 align="center">PolyU AAE2004 GitHub Project</h3>
+  <h3 align="center">PolyU AAE2004 GitHub Project LOL</h3>
 
   <p align="center">
     <br />
