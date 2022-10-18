@@ -4,7 +4,7 @@
 
   <p align="center">
     <br />
-    <a href="LT HSU AAE2004 Teaching Plan 2022-2bhugvitufi76tf6rtdcir6d8u65rd864d75u43 S1.pdf"><strong>Teaching Plan</strong></a>
+    <a href="LT HSU AAE2004 Teaching Plan 2022-2bhugvitufi76tfihiulhgbliuybliybiyu6rtdcir6d8u65rd864d75u43 S1.pdf"><strong>Teaching Plan</strong></a>
     <br />
     <br />
     <a href="Project Assessment Criteria.pdf"><strong>Assessment Criteria</strong></a>
